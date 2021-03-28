@@ -1,0 +1,62 @@
+*{
+    background-color:#AD719D;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+
+}
+.Titulo {
+    margin: 0px;
+    text-align:center;
+    font-size: 3rem;
+    font-family: 'Merriweather', serif;
+    color: #6b0d0d;
+
+  }
+
+  
+
+.Yotsuba  {
+    
+    height: 280px;;
+}
+
+.Musica{
+    argin-bottom: 1rem:
+}
+
+article, aside{
+    display: inline-block;
+    width: 30%;
+
+}
+
+.Twitch{
+    height: 100px;
+}
+
+.Izumi{
+    height: 200px;
+}
+.xd{
+    
+    text-align: center;
+
+}
+
+
+
+a{
+    color: #050606;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration:none;
+}
+  
+.Redes{
+    margin-top: 30px;
+  line-height: 3;
+  background-color: #dd3497;
+  word-spacing: 20px;
+  padding: 20px;
+}
